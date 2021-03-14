@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+from pyodbc import pyodbc 
 from unidecode import unidecode
 from odoo import models, fields, api
 
