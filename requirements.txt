@@ -1,2 +1,2 @@
 unidecode
-pyodbc
+pyodbc==4.0.30
